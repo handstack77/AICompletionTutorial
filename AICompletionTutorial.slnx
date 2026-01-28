@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/솔루션 항목/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
+  <Project Path="ConsoleApp3/ConsoleApp3.csproj" />
+  <Project Path="ConsoleApp4/ConsoleApp4.csproj" />
+  <Project Path="ConsoleApp5/ConsoleApp5.csproj" />
+  <Project Path="SimpleMcpClient/SimpleMcpClient.csproj" />
+  <Project Path="SimpleMcpCommand/SimpleMcpCommand.csproj" />
+  <Project Path="SimpleMcpServer/SimpleMcpServer.csproj" />
+</Solution>

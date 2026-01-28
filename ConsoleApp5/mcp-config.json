@@ -1,0 +1,14 @@
+﻿{
+    "mcpServers": {
+        "playwright": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@playwright/mcp@latest",
+                "--headless"
+            ],
+            "description": "웹 브라우저 자동화 및 웹 페이지 제어 도구 (Playwright)",
+            "notes": "웹 브라우저 자동화 도구 (사용 전 'npx playwright install' 필요)"
+        }
+    }
+}

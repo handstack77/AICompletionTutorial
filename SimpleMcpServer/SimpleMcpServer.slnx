@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SimpleMcpClient/SimpleMcpClient.csproj" />
+  <Project Path="SimpleMcpServer.csproj" />
+</Solution>

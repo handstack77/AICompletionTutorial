@@ -1,0 +1,10 @@
+﻿{
+    "mcpServers": {
+        "simple-mcp-command": {
+            "command": "C:\\projects\\AICompletionSolution\\Program\\SimpleMcpCommand\\bin\\Debug\\net10.0\\SimpleMcpCommand.exe"
+        },
+        "simple-mcp-server": {
+            "url": "http://localhost:8282"
+        }
+    }
+}
