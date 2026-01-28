@@ -156,7 +156,7 @@ namespace ConsoleApp5
                                 }
                                 catch (Exception ex)
                                 {
-                                    Console.WriteLine($"[Error] MCP ��구 호출 실패: {ex.Message}");
+                                    Console.WriteLine($"[Error] MCP 도구 호출 실패: {ex.Message}");
                                     return $"Error calling tool: {ex.Message}";
                                 }
                             },
